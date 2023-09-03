@@ -4,7 +4,7 @@ public class Main
 {
     	public static void main(String[] args) {
     	    
-    			int x=1, y=2, z=3;
+        int x=1, y=2, z=3;
 		
 		if(x<y){
 		   System.out.println("###");
